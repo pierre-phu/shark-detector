@@ -24,3 +24,6 @@ yt_adress = "https://www.youtube.com/watch?v=TX2d5sWbiyY"
 ## What if I want to apply it to my own video ?
 The easiest way is to upload your video on Youtube and then use the first method.
 You can make it accessible with link-only on Youtube if you want to keep it more private.
+
+## Feedback
+If you want to give any feedback, it would be a plesure talking with you, so send me a [mail](pierrephu@yahoo.fr).
