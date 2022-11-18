@@ -4,6 +4,8 @@ import cv2
 import pafy
 from time import time
 
+# Change this parameter to apply the detector on a youtube video
+yt_adress = "https://www.youtube.com/watch?v=TX2d5sWbiyY"
 
 class ObjectDetection:
     """
@@ -112,14 +114,7 @@ class ObjectDetection:
             print(f"Frames Per Second : {fps}")
             out.write(frame)
 
-
-
-# Create a new object and execute.
-#yt_adress = "https://www.youtube.com/watch?v=ro9wTjE3xGs" 
-#yt_adress = "https://www.youtube.com/watch?v=Ile5NS7ucec"
-yt_adress = "https://www.youtube.com/watch?v=TX2d5sWbiyY"
-
-name_video = yt_adress[30:]+"azer.avi"
+name_video = yt_adress[30:]+".avi"
 detection = ObjectDetection(yt_adress,name_video)
 detection()
 
