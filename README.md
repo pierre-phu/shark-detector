@@ -26,5 +26,5 @@ The easiest way is to upload your video on Youtube and then use the first method
 You can make it accessible with link-only on Youtube if you want to keep it more private.
 
 ## Feedback
-If you want to give any feedback, it would be a plesure talking with you, so send me a mail at pierrephu@yahoo.fr
+If you want to give any feedback, it would be a plesure talking with you, so send me a mail at pierrephu@yahoo.fr. 
 For more info, you can also check my [website](https://pierre-phu.github.io/).
