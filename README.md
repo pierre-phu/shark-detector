@@ -1,4 +1,4 @@
-# shark-detector
+# Shark detection project
 A project allowing to detect sharks (and other marine animals) from above (drone video)
 
 ## Wanna try it with your own computer on a Youtube video ?
@@ -22,6 +22,5 @@ yt_adress = "https://www.youtube.com/watch?v=TX2d5sWbiyY"
 ```
 
 ## What if I want to apply it to my own video ?
-
 The easiest way is to upload your video on Youtube and then use the first method.
 You can make it accessible with link-only on Youtube if you want to keep it more private.
