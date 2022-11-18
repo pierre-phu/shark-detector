@@ -21,8 +21,7 @@ from time import time
 yt_adress = "https://www.youtube.com/watch?v=TX2d5sWbiyY"
 ```
 
-
-## What if I want to apply it to my own video ?
+## What if I want to apply it to my own video ?
 
 The easiest way is to upload your video on Youtube and then use the first method.
 You can make it accessible with link-only on Youtube if you want to keep it more private.
